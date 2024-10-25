@@ -259,3 +259,4 @@ C:\Users\etec\Desktop\auebaGaleria\obj\Debug\net8.0\refint\auebaGaleria.dll
 C:\Users\etec\Desktop\auebaGaleria\obj\Debug\net8.0\auebaGaleria.pdb
 C:\Users\etec\Desktop\auebaGaleria\obj\Debug\net8.0\auebaGaleria.genruntimeconfig.cache
 C:\Users\etec\Desktop\auebaGaleria\obj\Debug\net8.0\ref\auebaGaleria.dll
+C:\Users\etec\Desktop\auebaGaleria\obj\Debug\net8.0\auebaGaleria.sourcelink.json
