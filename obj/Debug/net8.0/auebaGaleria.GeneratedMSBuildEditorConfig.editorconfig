@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = auebaGaleria
 build_property.RootNamespace = auebaGaleria
-build_property.ProjectDir = C:\Users\etec\Desktop\auebaGaleria\
+build_property.ProjectDir = C:\Users\vinic\OneDrive\Área de Trabalho\Galeria-\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\etec\Desktop\auebaGaleria
+build_property.MSBuildProjectDirectory = C:\Users\vinic\OneDrive\Área de Trabalho\Galeria-
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Categorias/Create.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Categorias/Delete.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Categorias/Details.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Categorias/Edit.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Categorias/Index.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Home/Index.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Home/Privacy.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Produtos/Create.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Produtos/Delete.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Produtos/Details.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Produtos/Edit.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Produtos/Index.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Shared/Error.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/_ViewImports.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/_ViewStart.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/auebaGaleria/Views/Shared/_Layout.cshtml]
+[C:/Users/vinic/OneDrive/Área de Trabalho/Galeria-/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o1ol0rv2h7
